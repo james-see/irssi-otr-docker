@@ -8,6 +8,6 @@ docker file to create a fresh ubuntu 16 irssi (pronounced EARSEE) with otr built
 
 ## To Launch
 
-`$ docker run irssi_otr_ubuntu`
+`$ docker run -ti irssi_otr_ubuntu`
 
 Enjoy.
