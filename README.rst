@@ -10,6 +10,7 @@ To Run It
 ---------
 
 ``$ docker pull ubuntu:xenial``   
+
 ``$ sudo docker build --build-arg IRSSIUSER=yournick -t irssi_otr_ubuntu .``
 
 To Launch
