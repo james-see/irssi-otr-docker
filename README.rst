@@ -18,5 +18,11 @@ To Launch
 
 ``$ docker run -ti irssi_otr_ubuntu``
 
+To Identify with NickServ
+-------------------------
+Step 1 is join a room of your choice like ``/join #tor`` then identify yourself using your password to enjoy the benefits of OFTC cloaking.
+
+``$ /msg NickServ identify [your password]``
+
 Enjoy.
 
