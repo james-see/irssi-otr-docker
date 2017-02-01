@@ -20,9 +20,17 @@ To Launch
 
 To Identify with NickServ
 -------------------------
-Step 1 is join a room of your choice like ``/join #tor`` then identify yourself using your password to enjoy the benefits of OFTC cloaking.
+Step 1 is to msg NickServ to identify yourself to enjoy then benefits of cloaking.
 
 ``$ /msg NickServ identify [your password]``
+
+Step 2 is to load OTR
+
+``$ /load otr``
+
+Step 3 is join a room of your choice like ``/join #nottor``.
+
+When you want to quit, simply type ``$ /quit`` and the docker instance will stop running.
 
 Enjoy.
 
